@@ -2,10 +2,7 @@
 
 using namespace std;
 
-int main() {
-    int num;
-
-    cout << "hello" << endl;
+int feature() {
 
     return 0;
 }
